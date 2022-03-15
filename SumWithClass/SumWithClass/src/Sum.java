@@ -1,7 +1,7 @@
 public class Sum {
-    int a, b, c;
+    int c;
 
-    void AddValue() {
+    void AddValue(int a, int b) {
         c = a + b;
     }
 

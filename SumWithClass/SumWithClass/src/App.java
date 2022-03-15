@@ -8,10 +8,10 @@ public class App {
 
         System.out.println("\nEnter 2 numbers\n");
         System.out.print("Enter number 1: ");
-        input.a = sc.nextInt();
+        int num1 = sc.nextInt();
         System.out.print("Enter number 2: ");
-        input.b = sc.nextInt();
-        input.AddValue();
+        int num2 = sc.nextInt();
+        input.AddValue(num1, num2);
         input.DisplayValue();
     }
 }
