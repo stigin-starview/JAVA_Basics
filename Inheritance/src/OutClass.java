@@ -1,4 +1,4 @@
-public class OutClass extends BaseClass{
+public class OutClass extends BaseClass {
     int out = 9;
     String text = "This is a string in Out class";
 
