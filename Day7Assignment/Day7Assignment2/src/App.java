@@ -11,7 +11,7 @@ public class App {
         int a = sc.nextInt();
         int b = sc.nextInt();
         Calc.num1 = a;
-        Calc.num1 = b;
+        Calc.num2 = b;
         int num = 0;
         switch(operation) {
             case 1:

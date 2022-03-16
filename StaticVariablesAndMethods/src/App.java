@@ -14,3 +14,5 @@ public class App {
 
     }
 }
+
+cannot make a statii reference to a no static method 
