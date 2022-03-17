@@ -14,7 +14,5 @@ public class App extends PrinterErrors{
         App test = new App();
         
     }
-    void testingMethod() {
-        System.out.println("This is a test");
-    }
+
 }

@@ -18,7 +18,10 @@ public class PrinterProgram {
         */
         String errormessage = " printer is not working ";
         obj.LowOnPaper(errormessage);
-          
+        
     }
+
+
+
 
 }
